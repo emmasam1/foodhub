@@ -56,18 +56,3 @@ nav a{
     transition: all 0.3s ease-in-out;
 }
 
-.small-section{
-height: 400px;
-background-color: blueviolet;
-width: 100%;
-display: flex;
-}
-.button{
-    width: auto;
-    background-color: black;
-    flex-direction: column;
-}
-.section1{
-    height: 100px;
-    width: 40%;
-}
