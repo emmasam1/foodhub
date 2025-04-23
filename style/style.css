@@ -55,4 +55,31 @@ nav a{
     color: orange !important;
     transition: all 0.3s ease-in-out;
 }
+.small-section {
+    background-image: url("../image/istockphoto-2168502212-1024x1024.jpg");
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.overlay2 {
+    background-color: rgba(0, 0, 0, 0.441);
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.small-section button {
+    width: 30%;
+    height: 70px;
+    font-size: large;
+border-radius: 5px;
+}
+.small-section p{
+    font-size: xx-large;
+    color: orangered;
+}
